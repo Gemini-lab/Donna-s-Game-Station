@@ -1,4 +1,4 @@
-# Donna-s-Game-Station
+# Donna-s-Gas-Station
 
 **Description**
 Donna is facing new competition. She believes her competitor is impacting the gallons of gas she sells. To find out she hired a data analyst to help understand the effects of her competitor’s prices on the total gallons sold she sold on the same days.  
