@@ -14,6 +14,4 @@ Donna seeks to improve her sales at her gas station in hopes to beat her competi
 Data consists of the past eight weeks' worth of Donna’s prices, competitor’s prices and gallons of gas Donna sold per day. The analysis will show how Donna’s price and her competitor’s prices affect her overall gallons sold per day. 
 
 ![image](https://github.com/user-attachments/assets/1590ca16-3639-45e1-a319-4701988b245e)
-![image](https://github.com/user-attachments/assets/f7983008-43b4-4f09-952d-65b3a3044412)
 ![image](https://github.com/user-attachments/assets/13eb8e82-7eaa-4445-bc71-7fd4607fa8e5)
-![image](https://github.com/user-attachments/assets/4ea7c3a7-53f6-4c84-8844-463a2fb543a6)
