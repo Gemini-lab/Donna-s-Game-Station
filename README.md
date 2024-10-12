@@ -14,9 +14,7 @@ Donna seeks to improve her sales at her gas station in hopes of beating her comp
 The data consists of Donna’s prices, competitors' prices, and the gallons of gas Donna sold per day for the past eight weeks. The analysis will show how Donna’s prices and her competitors' prices affect her overall gallons sold per day. 
 
 **What to Expect?**
-Descriptive Analysis 
-Regression Analysis 
-Discuss the Business Risk, Solutions, and Strategies 
+Descriptive Analysis, Regression Analysis, Discuss the Business Risk, Solutions, and Strategies 
 
 
 Preview - 2 Slides
