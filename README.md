@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ae7b423e-3d68-44bc-a2ac-b7a582c5c07d)# Donna-s-Gas-Station
 
 **Description**
 Donna is facing new competition. She believes her competitor is impacting the gallons of gas she sells. To find out she hired a data analyst to help understand the effects of her competitor’s prices on the total gallons sold she sold on the same days.  
@@ -14,7 +13,7 @@ Donna seeks to improve her sales at her gas station in hopes to beat her competi
 **The Data**
 Data consists of the past eight weeks' worth of Donna’s prices, competitor’s prices and gallons of gas Donna sold per day. The analysis will show how Donna’s price and her competitor’s prices affect her overall gallons sold per day. 
 
-![image](https://github.com/user-attachments/assets/5bfecc69-e97e-46bf-85b6-d4c195f1d8ca)
-![image](https://github.com/user-attachments/assets/6ba00266-da89-4d9e-a999-c4507cbc283e)
-![image](https://github.com/user-attachments/assets/3e65c013-4430-4bca-925b-1922429810ff)
-![image](https://github.com/user-attachments/assets/30a263ca-62f5-42e8-bfd2-599549e078ab)
+![image](https://github.com/user-attachments/assets/1590ca16-3639-45e1-a319-4701988b245e)
+![image](https://github.com/user-attachments/assets/f7983008-43b4-4f09-952d-65b3a3044412)
+![image](https://github.com/user-attachments/assets/13eb8e82-7eaa-4445-bc71-7fd4607fa8e5)
+![image](https://github.com/user-attachments/assets/4ea7c3a7-53f6-4c84-8844-463a2fb543a6)
