@@ -16,8 +16,11 @@ The data consists of Donna’s prices, competitors' prices, and the gallons of g
 **What to Expect?**
 Descriptive Analysis, Regression Analysis, Discuss the Business Risk, Solutions, and Strategies 
 
+
+
 **Preview - 2 Slides**
 More on the PowerPoint
 ![image](https://github.com/user-attachments/assets/1590ca16-3639-45e1-a319-4701988b245e)
+![image](https://github.com/user-attachments/assets/e9314575-9a9d-4306-bf23-71e9cc491e48)
 ![image](https://github.com/user-attachments/assets/13eb8e82-7eaa-4445-bc71-7fd4607fa8e5)
 
